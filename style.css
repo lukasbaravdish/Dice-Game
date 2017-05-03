@@ -1,0 +1,110 @@
+h1 {
+  font-size: 40px;
+  font-family: monospace;
+  color: white;
+  background-image: url("Pics/h1BG.jpg");
+}
+
+p{
+  font-family: "Algerian";
+  font-style: oblique;
+  color: grey;
+}
+
+body{
+  background-image: url("Pics/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position:relative;
+
+  /*margin-right: auto;
+  margin-left: auto;*/
+}
+
+h2{
+  color: crimson;
+  font-family: "Algerian";
+  font-size: 20px;
+}
+
+.form-group{
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  width: 285px;
+  font-weight: bold;
+  background-image: url("Pics/h1BG.jpg");
+  background-repeat: no-repeat;
+  background-origin: padding-box;
+}
+
+#exampleFirstName{font-style: italic;
+  font-size: 12px;
+}
+
+#exampleLastName{
+  font-style: italic;
+  font-size: 12px;
+  margin:0;
+}
+
+#exampleEmail{
+  font-style: italic;
+  font-size: 12px;
+  margin: 0;
+}
+
+#exampleUserName{
+  font-style: italic;
+  font-size: 12px;
+  margin: 0;
+}
+
+#examplePassword{
+  font-style: italic;
+  font-size: 12px;
+  margin: 0;
+}
+
+.dice{
+  width: 100px;
+  height: 100px;
+
+}
+
+.buttonClass{
+  font-family: fantasy;
+  background-color: gold;
+}
+
+.buttonClass:active{
+  background-color: black;
+  color: gold;
+}
+
+.playbtn{
+  background-color: red;
+  font-family: fantasy;
+  font-size: 25px;
+}
+
+.playbtn:active{
+  background-color: black;
+  color: red;
+}
+
+h3{
+  color: crimson;
+  font-family: "Algerian";
+  font-size: 50px;
+}
+li{
+  color:white;
+  font-family: "Algerian";
+  font-size: 40px;
+
+}
